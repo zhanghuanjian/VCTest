@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  CTest12-2综合实验1.cpp
+  CTest12-2综合实验1Doc.cpp
+  CTest12-2综合实验1Set.cpp
+  CTest12-2综合实验1View.cpp
+CTest12-2综合实验1View.cpp(175): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+CTest12-2综合实验1View.cpp(176): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+CTest12-2综合实验1View.cpp(181): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+CTest12-2综合实验1View.cpp(188): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  MainFrm.cpp
+  正在生成代码
+  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  CTest12-2综合实验1.vcxproj -> F:\VC实验\CTest12-2综合实验1\Release\CTest12-2综合实验1.exe
+  CTest12-2综合实验1.vcxproj -> F:\VC实验\CTest12-2综合实验1\Release\CTest12-2综合实验1.pdb (Full PDB)
